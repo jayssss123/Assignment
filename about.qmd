@@ -1,10 +1,39 @@
 ---
-title: "image"
+title: "resume"
 format: html
 editor: visual
 ---
 
 
-:::{#ppc}
-![My picture](YingjieJi.png)
-:::
+My name：Yingjie Ji
+
+Education Background
+09/2019-06/2023 North China University of Technology
+
+Major
+Electronic information engineering GPA:80.3/100
+
+Major professional courses
+Principles of Communications, Signals and Systems, Analog Electronics Technology, 
+digital electronic technology,circuit analysis advanced mathematics
+
+Internship experience
+07/08/2021-07/15/2021 Shijiazhuang Shuying Base in Beijing
+Making temperature sensors, recording temperature data
+Analyzing real world temperature data and sensor data, collecting the data and simulating
+through the instrument, and coding Writing the working code of smoke alarm, collecting data on different smoke levels, conducting data comparison and analysis Greatly enhanced my sensitivity to data and proficiency in coding.
+
+Social Practice Experience
+1. 11/2019-12/2019 Volunteer for the global launch ceremony of the Winter Olympics
+Me and other students as the audience of the Winter Olympics
+2. 07/2022-08/2022 Visit old people in nursing homes
+Knowing the loneliness of the old people, I decided to spare some time to accompany them
+
+Subject Research
+1. My Graduation thesis: Generation and recognition of communication baseband signals
+Abstract
+2. Research Topics: Finished the sound analysis and proofreading in the matlab class
+I have learned and implemented many experiments in analog electronic technology and digital. electronic technology
+
+Hobbies and Skills
+Chinese, Badminton, American TV series, movies, Basic matlab application, music, fluent English.

@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "image",
+    "title": "resume",
     "section": "",
-    "text": "My picture"
+    "text": "My name：Yingjie Ji\nEducation Background 09/2019-06/2023 North China University of Technology\nMajor Electronic information engineering GPA:80.3/100\nMajor professional courses Principles of Communications, Signals and Systems, Analog Electronics Technology, digital electronic technology,circuit analysis advanced mathematics\nInternship experience 07/08/2021-07/15/2021 Shijiazhuang Shuying Base in Beijing Making temperature sensors, recording temperature data Analyzing real world temperature data and sensor data, collecting the data and simulating through the instrument, and coding Writing the working code of smoke alarm, collecting data on different smoke levels, conducting data comparison and analysis Greatly enhanced my sensitivity to data and proficiency in coding.\nSocial Practice Experience 1. 11/2019-12/2019 Volunteer for the global launch ceremony of the Winter Olympics Me and other students as the audience of the Winter Olympics 2. 07/2022-08/2022 Visit old people in nursing homes Knowing the loneliness of the old people, I decided to spare some time to accompany them\nSubject Research 1. My Graduation thesis: Generation and recognition of communication baseband signals Abstract 2. Research Topics: Finished the sound analysis and proofreading in the matlab class I have learned and implemented many experiments in analog electronic technology and digital. electronic technology\nHobbies and Skills Chinese, Badminton, American TV series, movies, Basic matlab application, music, fluent English."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,12 @@
     "title": "Portfolio Website",
     "section": "",
     "text": "Hello everyone, I am Yingjie Ji, a graduate student majoring in MSCA at UIC. I have experience in using modern technology to solve complex problems in multiple projects. I specialize in developing efficient, user-friendly applications using Python and Rstudio. Feel free to learn more about me and my work via the links above!"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "My name：Yingjie Ji\nEducation Background 09/2019-06/2023 North China University of Technology\nMajor Electronic information engineering GPA:80.3/100\nMajor professional courses Principles of Communications, Signals and Systems, Analog Electronics Technology, digital electronic technology,circuit analysis advanced mathematics\nInternship experience 07/08/2021-07/15/2021 Shijiazhuang Shuying Base in Beijing Making temperature sensors, recording temperature data Analyzing real world temperature data and sensor data, collecting the data and simulating through the instrument, and coding Writing the working code of smoke alarm, collecting data on different smoke levels, conducting data comparison and analysis Greatly enhanced my sensitivity to data and proficiency in coding.\nSocial Practice Experience 1. 11/2019-12/2019 Volunteer for the global launch ceremony of the Winter Olympics Me and other students as the audience of the Winter Olympics 2. 07/2022-08/2022 Visit old people in nursing homes Knowing the loneliness of the old people, I decided to spare some time to accompany them\nSubject Research 1. My Graduation thesis: Generation and recognition of communication baseband signals Abstract 2. Research Topics: Finished the sound analysis and proofreading in the matlab class I have learned and implemented many experiments in analog electronic technology and digital. electronic technology\nHobbies and Skills Chinese, Badminton, American TV series, movies, Basic matlab application, music, fluent English."
   }
 ]
