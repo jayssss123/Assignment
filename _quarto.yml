@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PA 446 assignment2"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    linkcolor: "#ff33f0"
+    fontcolor: "#9C3C27"
+    monofont: "Courier New"
+    css: styles.css
+    toc: true
+

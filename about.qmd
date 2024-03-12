@@ -1,0 +1,10 @@
+---
+title: "image"
+format: html
+editor: visual
+---
+
+
+:::{#ppc}
+![My picture](YingjieJi.png)
+:::
