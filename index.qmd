@@ -11,10 +11,13 @@ about:
       href: mailto:yji100@uic.edu
     - text: Github
       icon: github
-      href: https://github.com/
+      href: https://github.com/jayssss123/Assignment
     - text: resume
       icon: file-text
       href: resume.pdf
+    - text: LinkedIn
+      icon: LinkedIn
+      href: https://www.linkedin.com/in/yingjie-ji-2363b22ba/
       id: ppc
 ---
 # Hello everyone, I am Yingjie Ji, a graduate student majoring in MSCA at UIC. I have experience in using modern technology to solve complex problems in multiple projects. I specialize in developing efficient, user-friendly applications using Python and Rstudio. Feel free to learn more about me and my work via the links above!
