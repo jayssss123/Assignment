@@ -11,7 +11,7 @@ about:
       href: mailto:yji100@uic.edu
     - text: Github
       icon: github
-      href: https://github.com/jayssss123/Assignment
+      href: https://github.com/jayssss123/YingjieJi.github.io
     - text: LinkedIn
       icon: LinkedIn
       href: https://www.linkedin.com/in/yingjie-ji-2363b22ba/
